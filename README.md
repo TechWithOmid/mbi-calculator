@@ -5,7 +5,7 @@ how it work:
 1. Enter your weigth in weight seciton
 2. Enter your hieght in height section
 3. Your MBI section is MBI number
-40 Result section show yout status 
+4. Result section show yout status 
 
 Futures:
 - Calculate MBI 
